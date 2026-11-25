@@ -1,0 +1,38 @@
+{
+  "siteName": "Wolfit Gym",
+  "description": "Premium unisex gym in Barja, Lebanon. Featuring 68 international-standard stations, ice and steam therapy.",
+  "lang": "en",
+  "colors": {
+    "primary": "#FF4500",
+    "secondary": "#FFFFFF",
+    "accent": "#FF4500",
+    "background": "#111418",
+    "surface": "#1A1D21",
+    "ink": "#FFFFFF",
+    "muted": "#94A3B8",
+    "dark": "#0A0C0F"
+  },
+  "fonts": {
+    "heading": "Bricolage Grotesque",
+    "body": "IBM Plex Sans"
+  },
+  "extend": {
+    "colors": {
+      "on-surface": "#FFFFFF",
+      "on-surface-variant": "#94A3B8",
+      "surface-container": "#1A1D21",
+      "surface-container-low": "#15181C",
+      "surface-container-lowest": "#0A0C0F",
+      "primary-container": "#FF4500",
+      "on-primary-container": "#FFFFFF",
+      "outline-variant": "#2D3139"
+    },
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
